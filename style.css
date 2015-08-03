@@ -1,0 +1,11 @@
+.jumbotron{
+	background-color: green;
+	color:black;
+}
+body{
+	background-image:url(http://www.publicdomainpictures.net/pictures/40000/nahled/green-stripes-background.jpg);
+}
+p{
+	color:black;
+	font-style:bold;
+}
