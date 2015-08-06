@@ -1,11 +1,56 @@
 .jumbotron{
-	background-color: green;
-	color:black;
+	background-image:url(http://www.rabne.tk/wp-content/uploads/2015/01/64.jpg);
+	background-color: hsla(360, 100%, 100%, 0.88)
 }
-body{
-	background-image:url(http://www.publicdomainpictures.net/pictures/40000/nahled/green-stripes-background.jpg);
+h1{
+	background-color: hsla(360, 100%, 100%, 0.13)
 }
-p{
-	color:black;
-	font-style:bold;
+.p1{
+	background-color: hsla(360, 100%, 100%, 0.13)
+	font-size: 90px;
+}
+h2{
+	font-size: 50px;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: underline;
+}
+h7{
+	text-decoration:underline;
+}
+h4{
+	font-size: 40px;
+	font-family: 'PT Sans Narrow', sans-serif;
+	text-decoration:underline;
+}
+h3{
+	font-family: 'PT Sans Narrow', sans-serif;
+	text-decoration:underline;
+	font-size: 40px;
+}
+h5{
+	font-family: 'PT Sans Narrow', sans-serif;
+	text-decoration:underline;
+	font-size: 40px;
+}
+h6{
+	font-family: 'Montserrat', sans-serif;
+	text-decoration:underline;
+	font-size: 50px;
+}
+h7{
+	font-family: 'PT Sans Narrow', sans-serif;
+	text-decoration:underline;
+	font-size: 45px;
+}
+.jumbotron-text{
+
+	background-color: hsla(360, 100%, 100%, 0.55);
+	border-radius: 45px;
+}
+.3p{
+	
+}
+.toys{
+	font-size: 40px;
+	text-decoration: underline;
 }
